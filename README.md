@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de pruebas del Modulo 2 del PrepCourse de Henry
+Una prueba para ver como funciona
